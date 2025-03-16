@@ -1,0 +1,445 @@
+Food,"Amount of carbohydrates per 100 grams","Amount of fats per 100 grams"
+"Milk, 1% fat",5,1
+"Milk, 2% fat",4.8,2
+"Milk, 3.7% fat",4.7,3.7
+"Milk, non fat",5,0
+Breast Milk,7,4.4
+"Milk, whole, 3.25% fat",4.8,3.25
+Ensure ,20,11.5
+Powdered milk,38,27
+Soya Milk,3,1.8
+Yoghurt drink,12,3.3
+Milk pudding,14,2.9
+Custard,17,2
+Evaporated milk,8,4.1
+Condensed milk,56,8
+Full fat natural yoghurt,7,3.3
+0% fat yoghurt,8,0
+Low fat fruit yoghurt,14,1.08
+Plain Fromage frais,4,3
+Flavoured fromage frais,10,6.3
+"Bread, white",49,3.3
+Garlic bread,42,16.6
+Raisin bread,52,4.4
+Banana bread,55,11
+"Bacon, baked",1.4,43.3
+"Bacon, microwaved",0.5,41.78
+"Bacon, pan-fried",1.4,35.1
+"Bacon, raw",1.3,2.6
+"Egg, boiled",1.1,10.6
+"Egg, fried",0.8,14.8
+"Egg, omlet",0.6,11.7
+"Egg, poached",0.7,9.5
+"Egg, scrambled",0.7,11
+"Hamburger, single patty",34,13.13
+"Hamburger, double patty",24,27.9
+Hot Dog,4.2,17
+"Spaghetti, cooked",31,2
+"Ice cream, vanilla",24,8.2
+"Ice cream, strawberry",28,8.2
+Banana ,22.8,0.33
+Apple,13.8,0.17
+Grapes,17.2,0.35
+Grape Juice,14.8,0.13
+Lemon,9.3,0.3
+Corn Flour,79.1,3.9
+White Flour,75.1,1
+Rye Flour,73.3,1.5
+French Bread,58.6,2.4
+Whole grain toast,49.9,11.3
+Cooked white rice,28.1,0.28
+Cooked whole wheat rice,25.8,2.5
+Cooked white pasta,30.9,1.14
+Cooked whole wheat pasta,30.1,1.7
+Oat flakes,66.6,7
+Cooked black beans,14,0.54
+Cooked chickpeas,27.4,2.6
+Cooked lentils,16.3,0.38
+Tamarind,72.5,0.6
+Pine nuts,22.4,68.4
+Grapes,13.6,0.35
+Jack fruit,22.5,0.6
+Mango,19.4,0.38
+Papaya,10.4,0.26
+Pear,14,0.14
+Yam,27.5,0.14
+Cooked Cassava,30.1,3
+Raw beets,11.1,0.17
+Cooked green peas,11.7,0.22
+Cooked purple yam,18.9,0.1
+Cooked pumpkin,10.8,0.7
+Cooked english potatoes,11.9,0.3
+Cooked sweet potato,18.4,0.15
+"Corned beef, brisket, cooked",0.5,19
+"Corned beef, hash, with potato",9,10.2
+Baguette,55,3.4
+Breadsticks,73,10
+Ciabatta ,51,3.5
+Finger roll,52,6.5
+Crusty roll ,56,1.5
+Burger roll,49,2.6
+Croissant,43,21
+Crumpet,44,5.6
+English muffin,43,2
+Pain au chocolate,46,15.4
+Pain au raisin,39,15
+Belgian waffle,53,12.3
+Danish pastry,51,22
+Plain Naan,50,6.3
+Poppadum,42,3.3
+Chapatti,43,12.5
+White Pitta,50,1.2
+Tortilla white,58,8.04
+Tortilla wholemeal,46,13
+Sponge cake,47,2.7
+Fruit cake,58,9.1
+Carrot cake ,40,17.5
+Swiss roll,63,14
+Gateau,28,0.3
+Bread & Butter pudding,27,18
+Sticky Toffee,41,13.6
+Banoffee Pie,33,35
+Apple pie,33,15.3
+Trifle,19,7.2
+Jelly,18,0.02
+Sorbet,30,0.05
+Weetabix Cereal,68,2
+Oatibix Cereal,64,8.3
+Shredded wheat cereal,69,1.7
+All bran Cereal,48,3.5
+Oat flakes cereal,67,3.6
+Cornflakes Cereal,84,0
+Cruncy Nut Cornflakes cereal,82,4.67
+Frosties Cereal ,87,3.3
+Fruit 'n Fibre Cereal,69,6
+Special K cereal,75,1.8
+Sultana Bran Cereal,68,2.9
+Cheerios Cereal ,75,4.6
+Coco Pops,85,0.67
+Puffed Wheat ,72,2.2
+Rice Krispies ,87,9
+Weetos Cereal,75,4.3
+Raisin Wheats cereal,69,2
+Porridge with milk,14,6
+Oats rolled,60,6.3
+Nut muesli,61,5
+Stewed apple,8,0.07
+Plum,8,0.28
+Orange,6,0.12
+Satsuma,6,0.31
+Grapefruit,5,0.1
+Pineapple,10,0.12
+Paw paw,9,1.2
+Apricots,7,0.39
+Nectarine,8,0.32
+Peach,7,0.25
+Tinned peaches in juice,10,0
+Tinned fruit cocktail,7,0.1
+Fresh Fruit Salad,14,0.23
+Kiwi,9,0.52
+Watermelon,7,0.15
+Melon,6,0.2
+Strawberries,6,0.3
+Raspberries,5,0.87
+Blackberries,5,0.49
+Blueberries ,10,0.51
+Cherries,10,0.2
+Blackcurrants,7,0.86
+Dates,65,0.39
+Dried Apricots,37,0.51
+Figs,49,0.3
+Prunes,34,0.38
+Raisin/Sultanas,70,0.25
+Potatoes boiled,17,0.1
+Potatoes mashed,15,5
+Potatoes roast,26,5
+Jacket porato,23,1
+Sweet potato ,20,0.05
+Chips,30,35
+Oven chips baked,30,7.2
+French fries,36,14.1
+Hash brown,25,12.5
+Croquette,25,6.6
+Potato smiles,25,9.1
+Wedges,25,2.2
+Waffle,31,14.1
+Crisps,60,35
+Potato salad,13,8.2
+Carrots boiled,5,0.18
+Parsnip baked,21,0.5
+Beetroot boiled,10,0.36
+Butternut squash,8,0.1
+Peas frozen/tinned,12,0.4
+Mushy peas,14,0.4
+Broad beans,12,0.4
+Baked beans,14,5.2
+Lentils,18,0.38
+Kidney beans,18,0.5
+Chickpeas,16,2.6
+Butter beans,13,0.4
+Sweetcorn tinned/frozen,26,2.3
+Sweetcorn cob,12,2.4
+Lasagne,70,4.9
+Dried Spaghetti White,70,1.5
+Dried Spaghetti Wholewheat,66,3
+Dried Macaroni,76,1.5
+Dried Penne/Fusilli,70,1.5
+Boiled Spaghetii Wholewheat,32,1.35
+Boiled Macaroni,38,0.67
+Boiled Penne/Fusillli,35,1
+Boiled Ravioli Tinned,10,1
+Boiled Lasagne,13,6.01
+Boiled Macaroni cheese,18,9.4
+Boiled Tortellini filled,32,5.56
+Egg noodles raw,72,4.4
+Egg noodles boiled,36,2.1
+Pot noodle,20,17
+Straight to wok noodles,28,1.5
+All varieties raw - rice,100,0.6
+All varieties cooked - rice,30,0.37
+Pilau rice,30,3.9
+Risotto,17,7
+Polenta,15,1
+Couscous cooked,30,0.16
+Quinoa,63,5.8
+Sausage,9,18
+Sausage roll ,27,21.3
+Mini sausage roll,25,16
+Scotch egg ,13,27.1
+Mini scotch egg,13,16.4
+Pork pie,24,21.1
+Steak & Kidney pie,23,12
+Cornish pstie,25,14.5
+Quiche,22,15.9
+Chicken kiev,12,10
+Stuffing ,20,8.42
+Fish fingers grilled,15,9.2
+Fish cake fried,16,10.49
+Fish in batter,15,11.37
+Scampi ,20,15.83
+Sushi,25,0.42
+Tomato soup,5,1.2
+Vegetable soup,8,0.79
+Lentil soup,10,1.1
+Chicken noodle soup,5,1.2
+Gravy ,5,2.36
+Kethcup,33,0.38
+Brown sauce,33,0.1
+White sauce,12,10.63
+Bread sauce,13,1.4
+Pickle,33,0.19
+Chutney,67,0.29
+Horseradish,20,0.69
+Mint sauce,27,0
+Horlicks instant,11,1.8
+Cadburys instant chocolate,10,7.5
+Low cal chocolate,3,39
+Cocoa powder,11,13.7
+Cola,11,0.25
+Diet cola,0,0
+Fanta orange,5,0
+Lemonade,11,1.1
+Sprite,3.3,0.02
+7 Up ,7,0
+Slimeline tonic,0,0
+Tonic water,5,0
+Bitter Lemon,8,0
+Ginger Ale,9,0
+J20,5,0.3
+Appletise,11,0
+Fruit smoothie,14,0
+Yoghurt smoothie,16,0.97
+Orange squash,5,0.1
+Orange Hi squash,8,0.1
+Blackcurrant Squash,11,0
+Red bull,11,0
+Lucozade original,9,0
+Lucozade sport,7,0
+Grapefruit juice,8,0.68
+Apple juice,11,0.1
+Orange Juice,10,0.2
+Tomato juice,4,0.29
+Pineapple juice,12,0.08
+Cranberry juice (sweetened),13,0.1
+Glucose/sugar,100,0.1
+Glucose (dextose) tabs,100,0
+Glucogel,40,0.7
+Jelly Babies,80,1
+Jelly Beans,90,0
+Fruit Pastilles,85,0
+Wine Gums,75,0
+Biscuits,70,16
+Bread/toast,50,2.5
+Cereal & milk,15,3.32
+Jam/maramalade,69,0
+Reduced sugar jam,55,
+Lemon curd,63,15.2
+Golden syrup,80,0
+Honey ,85,0
+Choc nut spread,60,30
+Trebor extra strong mints,60,0.1
+Doritos,58,26
+Pringles,52,31.7
+Tortilla chips,60,23.36
+Pretzels,77,2.6
+Twiglets,58,13.2
+Bombay Mix,35,30.6
+Popcorn plain,50,4.54
+Popcorn salted,48,26
+Popcorn sweet ,55,20
+Peanuts,10,49
+Cashey nuts,20,43.85
+Dried fruit and nuts,40,23.3
+"Dried fruit, nuts, & seeds",40,36.05
+Raisins,69,0.54
+Yorkshire Pudding,25,10
+Chicken goujons,19,18
+Houmous,13,10
+Tea,0.2,0
+Black Tea,0.3,0
+"Tea, Herb, Brewed",0.2,0
+Coffee,0,0.2
+"Coffee, espresso",1.7,0.2
+Coffee instant,75,0
+Beer,3.6,0
+"Beef, tongue",3.7,22
+Brocolli,7,0.4
+"Brocolli Raab, cooked",3.1,0.49
+"Brocolli, boiled",7,0.4
+Artichokes,11,0.2
+Asparagus,3.9,0.1
+Beets,10,0.2
+Cabbage,6,0.1
+Carrots ,10,0.2
+Cauliflower,5,0.3
+"Edamame, cooked",10,5.2
+Ginger root,18,0.75
+"Green beans, raw",7,0.1
+Leeks,14,0.3
+"Lettuce, green leaf",2.9,0.2
+Onions,9,0.1
+Radishes,3.4,0.1
+Scallions,7,0.2
+Shallots,17,0.1
+Spinach,3.6,0.4
+Brussels sprouts,9,0.3
+"Brussels sprouts, boiled",7,0.5
+Butter,0.1,81
+Cornmeal,79,1.8
+Cornstarch,91,0.1
+Potato starch,83,0.3
+Rice flour,80,1.4
+"Sesame flour, high fat",27,12
+"Sesame flour, low fat",36,1.75
+"White flour, all-purpose",76,1
+Celery,3,0.2
+American cheese,3.7,32
+Blue cheese,2.3,29
+Camembert cheese,0.5,24
+"Cheese, cheddar",1.3,33
+"Cheese, gruyere",0.4,32
+"Cheese, mozzarella, low sodium",3.1,22
+"Cheese, provolone",2.1,26.62
+"Cheese, ricotta, whole milk",3,11.3
+"Cottage cheese, creamed",3.4,4
+Edam cheese,1.4,27.2
+Feta cheese,4.1,21.28
+Fontina ,1.6,31
+Goat cheese,0.1,30
+Gouda cheese,2.2,27
+Parmesan cheese,4.1,29
+Pimento cheese,1.7,31
+Queso blaco,2.5,24
+Roquefort,2,31
+Swiss cheese,5,28
+Butter cookie ,69,19
+Chocolate chip cookie,58,28
+Do-si-dos,66,7
+Fortune cookies,84,2.7
+Ginger snap,77,10
+"Macaroons, with coconut",72,13
+Oatmeal Raisn Cookies,68,16.2
+Peanut butter cookie,59,24
+Shortbread cookie ,65,24
+Sugar cookie,61,19
+Tagalongs,52,35
+Thin mints,67,24
+Trefoils,68,23
+Eggplant,6,0.2
+"Eggplant, boiled",9,0.2
+"Ham, minced",1.8,20.68
+"Ham, patties, grilled",1.7,28
+"Ham, patties, unheated",1.7,28
+Brazil nuts,12,66
+"Cashews, dry roasted",33,43.85
+"Chestnuts, boiled and steamed",28,0.4
+Gingko nuts,38,1.7
+Hazelnuts,17,61
+Macademia nuts,14,76
+"Mixed nuts, oil roasted",21,56
+"Mixed nuts, oil, with salt",21,54
+Pecans,14,71.97
+"Pecans, dry roasted",13.6,74
+Pine nuts,13,68
+Pistachio nuts,28,45
+Walnuts,14,65
+"Peppers, green ",4.6,0.2
+"Peppers, green, boiled",7,2.81
+"Peppers, green, sauteed",4.2,0.3
+"Peppers, red, boiled",6,0.2
+"Peppers, sweet, red",6,0.3
+"Peppers, sweet, red, sauteed",7,9.1
+"Peppers, yellow",6,0.2
+Angel food cake,59,0.3
+Boston cream pie ,43,9
+Cheesecake,26,23
+"Chocolate cake, w/o frosting",53,14
+Fruit cake,62,9
+Marble cake,79,12
+Pancake ,28,10
+"Pound cake, butter",49,20
+"Pound cake,  fat-free",61,1
+Shortcake,49,14
+Sponge cake,58,4.3
+"White cake, w/o frosting",57,12
+"Yellow cake, w/ chocolate frosting",55,17.4
+"Yellow cake, w/ vanilla frosting",59,14.5
+"Yellow cake, without frosting",53,15
+"Pizza, 14"" regular crust",33,15.7
+Glazed Donuts,46.7,15
+"Shrimp, breaded and fried",11,12.26
+"Shrimp, cooked ",0.2,0.3
+"Shrimp, cooked in moist heat",1.5,0.3
+Hot chocolate ,11,2.3
+Chicken nuggets ,14,20
+Turkey,0,7
+Chicken,0,14
+Beef,0,15
+Steak ,0,19
+Bagel,49,1.5
+"Bagel, cinamon-raisin",55,2
+"Bagel, cinaamon-raisin,toasted",59,1.8
+"Bagel, egg",53,2.1
+"Bagel, oat bran",53,1
+"Pita bread, white, enriched",56,1.1
+"Pita bread, white, unenriched",56,1.2
+"Pita bread, whole wheat ",55,1.7
+Beef Jerky,11,26
+Gatorade,6,0
+Corn flakes,84,0.4
+"Onion rings, breaded, fried",44,25
+Water,0,0
+Crab cake,9,17
+Barbeque chicken,0.1,15
+Barbeque sauce,41,0.6
+Peppermint,15,0.9
+Pepperoni,0,44
+"Peanut Butter, smooth",20,51
+"Peanut butter, chunk",22,50
+Dark Chocolate,46,43
+Salsa,7,0.2
+Soy yogurt,16,1.8
+"Yogurt, greek, non fat",3.6,0
+"Yogurt, frozen, chocolate",25,3.6
+"Yogurt, frozen, vanilla",24,5.6
+"Yogurt, fruit, non fat",19,0.2

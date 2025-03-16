@@ -1,0 +1,11 @@
+# Ignore virtual environment and test data
+myenv/
+test-data/
+README.md
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore other hidden files (e.g., from macOS)
+.DS_Store
